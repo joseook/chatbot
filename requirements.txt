@@ -1,0 +1,6 @@
+[library]
+chatterbot==1.0.8
+Requests==2.31.0
+tk==0.1.0
+datetime==5.2
+sqlite3
